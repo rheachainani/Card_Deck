@@ -1,4 +1,4 @@
-# Card Deck Simulation
+# Card Deck
 
 ## Overview
 
